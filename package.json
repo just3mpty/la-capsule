@@ -2,7 +2,7 @@
     "name": "la-capsule",
     "displayName": "La Capsule",
     "description": "La Capsule | A dark theme for Visual Studio Code",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.99.0"
     },
@@ -24,7 +24,7 @@
         "url": "https://github.com/just3mpty/la-capsule.git"
     },
     "license": "MIT",
-    "publisher": "just3mpty",
+    "publisher": "3mpty",
     "keywords": [
         "theme",
         "dark",
