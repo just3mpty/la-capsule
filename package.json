@@ -2,7 +2,7 @@
     "name": "la-capsule",
     "displayName": "La Capsule",
     "description": "La Capsule | A dark theme for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.99.0"
     },
