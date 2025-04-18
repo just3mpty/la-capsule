@@ -1,21 +1,41 @@
 {
-  "name": "la-capsule",
-  "displayName": "La Capsule",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.99.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "La Capsule",
-        "uiTheme": "vs-dark",
-        "path": "./themes/La Capsule-color-theme.json"
-      }
-    ]
-  }
+    "name": "la-capsule",
+    "displayName": "La Capsule",
+    "description": "La Capsule | A dark theme for Visual Studio Code",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.99.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "La Capsule",
+                "uiTheme": "vs-dark",
+                "path": "./themes/La Capsule-color-theme.json"
+            }
+        ]
+    },
+    "icon": "assets/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/just3mpty/la-capsule.git"
+    },
+    "license": "MIT",
+    "publisher": "just3mpty",
+    "keywords": [
+        "theme",
+        "dark",
+        "la",
+        "capsule",
+        "vscode",
+        "vscode-theme"
+    ],
+    "homepage": "https://github.com/just3mpty/la-capsule",
+    "galleryBanner": {
+        "color": "#222229",
+        "theme": "dark"
+    }
 }
